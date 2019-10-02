@@ -1,0 +1,19 @@
+.scroll-container {
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 1px solid brown;
+    width: 350px;
+    padding: 3px;
+    height: 25px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.draggable {
+    width: 30px;
+    height: 100%;
+    background: grey;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}

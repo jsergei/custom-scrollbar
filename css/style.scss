@@ -1,0 +1,18 @@
+@import './scroll-container.scss';
+
+.content-container {
+    width: 400px;
+    height: 130px;
+    padding: 5px;
+    border: 1px dashed blue;
+    overflow: hidden;
+}
+
+.wide-box {
+    border: 1px solid green;
+    padding: 5px;
+    margin: 5px;
+    width: 2000px;
+    height: 50px;
+    display: inline-block;
+}
